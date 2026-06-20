@@ -49,4 +49,4 @@ Online Retail Dataset → Data Cleaning → Customer Segmentation → Churn Pred
 
 ## Author
 
-Afnan
+Afnan Ahmed
